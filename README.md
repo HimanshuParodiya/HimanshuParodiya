@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Reudx.js and any general software development questions.**
 
-- 📫 How to reach me **himanshuparodiya@gmail.com**
+- 📫 How to reach me **himanshuparodiya@gmail.com** or **https://www.linkedin.com/in/himanshuparodia/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
